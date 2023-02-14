@@ -3,5 +3,6 @@
     <pages>
         <page name='Aula 2.1 - Operadores relacionais e lógicos'/>
         <page name='Aula 2.2 - Condicionais com if, else if e else'/>
+        <page name='Aula 2.3 e 2.4 - Intervalo de valores e Switch'/>
     </pages>
 </playground>
