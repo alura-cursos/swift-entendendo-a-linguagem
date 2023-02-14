@@ -3,5 +3,6 @@
     <pages>
         <page name='Aula 3.1 - Loop com For'/>
         <page name='Aula 3.2 - Loops while e repeat while'/>
+        <page name='Aula 3.3 - Break e Continue'/>
     </pages>
 </playground>
